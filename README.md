@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlainRamzey
-- 👀 Data Engineer Pro/ Networlking/AI/Cybersecurity
+- 👀 Data Engineer Pro/ Networking/AI/Cybersecurity
 - 🌱 Intermediate - Ansible/Python
 - 💞️ Cross-collaboration Cisco/Juniper/Fortinet projects
   
